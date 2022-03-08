@@ -7,7 +7,7 @@
 - 💬 Ask me about Node.JS
 - 📫 How to reach me: robsonluan273@hotmail.com
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: Hated programming at first (2017) now actively looking for a programming job
+- ⚡ Fun fact: disliked programming at first (2017) now actively looking for a programming job
 <div align="center"> <br>
   <a href="https://www.instagram.com/robson_luan752/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/548631580684451870/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
