@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Cloud Programming
 - 💬 Ask me about Node.JS
 - 📫 How to reach me: robsonluan273@hotmail.com
-- 😄 Pronouns: he/they
+- 😄 Pronouns: he/his
 - ⚡ Fun fact: Hated programming at first (2017) now actively looking for a programming job
 <div align="center"> <br>
   <a href="https://www.instagram.com/robson_luan752/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
